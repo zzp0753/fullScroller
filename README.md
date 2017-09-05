@@ -1,5 +1,6 @@
 # fullScroller
-A plugin of Javascript that make the full-screen section scrolls.
+A plugin of Javascript that make the full-screen section scrolls.Demo [here](http://zzp0753.github.io/fullScroller)
+
 
 Easy to use.u can use "full-screen" as class name of the full-screen-size element.
 

@@ -4,7 +4,9 @@ A plugin of Javascript that make the full-screen section scrolls.Demo [here](htt
 
 Easy to use.u can use "full-screen" as class name of the full-screen-size element.
 
-Do not use <code>class="full-screen otherClassName"</code>, use <code>class="full-screen"</code>.
+~~Do not use <code>class="full-screen otherClassName"</code>, use <code>class="full-screen"</code>.~~
+
+<code>class="full-screen otherClassName"</code> is OK.
 
 Or u can edit the source code as u wish.
 
